@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\adrian\Desktop\Entrega Ada\sesion2\Ejercicio6\ejercicio6.gpr
+20181212163728
+[BOUND OBJECT FILES]
+C:\Users\adrian\Desktop\Entrega Ada\sesion2\Ejercicio6\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\adrian\Desktop\Entrega Ada\sesion2\Ejercicio6\obj\
+-LC:\Users\adrian\Desktop\Entrega Ada\sesion2\Ejercicio6\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
